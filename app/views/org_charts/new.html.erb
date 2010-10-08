@@ -1,0 +1,12 @@
+<h1>Please select Department ... </h1>
+<hr>
+
+<%form_tag({:action => 'create'}, :method => :post) do %>
+
+  <%= select_tag 'department_ids[]', departments_select, :size => 6, :multiple => true %>
+
+<br>
+
+<%= submit_tag 'Draw Org Chart' %>
+
+<% end %>

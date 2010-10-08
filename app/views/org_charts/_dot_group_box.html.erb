@@ -1,0 +1,12 @@
+		"cluster_<%=group.first.id%>" 
+		[shape = record,
+		 style = filled,
+     color = "<%=group.first.department.color%>",
+		 label = <
+			<TABLE ALIGN="LEFT" WIDTH="100%" CELLSPACING="0" BORDER="0">
+				<% group.each do |employee| %>
+          <%= label_for(employee) %>
+				<% end %>
+			</TABLE>
+			>
+		];

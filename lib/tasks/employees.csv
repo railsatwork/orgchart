@@ -1,0 +1,126 @@
+external_id,first,last,title,department,reports_to,department_manager
+1,Herbert,Miller,CEO,CEO,,yes
+2,Christopher,Johnson,VP Engineering,Engineering,1,yes
+3,Elsie,Big,Senior Developer,Engineering,2
+4,Betty,Tillery,Senior Developer,Engineering,2
+5,Stacy,Mccollister,Lead Developer,Engineering,3
+6,Melody,Kane,Developer,Engineering,3
+7,John,Corley,Developer,Engineering,3
+8,Mark,Griffin,Developer,Engineering,3
+9,Herman,Appling,Developer,Engineering,4
+10,Javier,Raven,Developer,Engineering,4
+11,Wendy,Rex,Developer,Engineering,4
+12,Lizzie,Baker,Developer,Engineering,5
+13,Winston,Ridge,Developer,Engineering,5
+14,Krystal,Bowman,Developer,Engineering,5
+15,Esperanza,Moore,Developer,Engineering,5
+16,Danny,Goodloe,CFO,Finance,1,yes
+17,Dan,Montero,Corporate Controller,Finance,16
+18,Gilberto,Lauria,Audit Manager,Finance,16
+19,Arthur,Myers,Accountant,Finance,18
+20,John,Ramirez,Accountant,Finance,18
+21,Cindy,Carrier,Accountant,Finance,18
+22,Lillian,Dominguez,Accountant,Finance,18
+23,Emily,Lacey,Accountant,Finance,18
+24,Joanne,Brown,Accountant,Finance,18
+25,Jeremy,Schafer,Senior Accountant,Finance,18
+26,William,Flanagan,Senior Accountant,Finance,18
+27,Walter,Johnson,Senior Accountant,Finance,17
+28,Jessie,Olinger,Senior Accountant,Finance,16
+29,Bonnie,Paris,Senior Accountant,Finance,16
+30,Elsie,Maffei,Senior Accountant,Finance,17
+31,Michael,Pulliam,Senior Accountant,Finance,17
+32,Bernard,Burnham,Controller,Finance,17
+33,Josephine,Oconnell,Admin,Finance,17
+34,James,Higgins,Accountant,Finance,17
+35,James,Caro,Accountant,Finance,17
+36,John,Mccall,Accountant,Finance,17
+37,Christopher,Fowler,VP Marketing,Marketing,1,yes
+38,Bobby,Kempton,Regional Manager,Marketing,37
+39,Charles,Lucero,Events Manager,Marketing,37
+40,Margaret,Keith,Advertising Manager,Marketing,37
+41,Arthur,Sutton,Marketing Associate,Marketing,38
+42,Idell,Jones,Marketing Associate,Marketing,38
+43,Thomas,Mcdaniel,Marketing Associate,Marketing,38
+44,Michael,Cain,Marketing Associate,Marketing,38
+45,Jay,Ramirez,Marketing Associate,Marketing,38
+46,Elizabeth,Cruz,Marketing Associate,Marketing,38
+47,Charles,Salazar,Marketing Associate,Marketing,38
+48,Jesse,Houpt,Marketing Associate,Marketing,38
+49,Erick,Edick,Marketing Associate,Marketing,39
+50,Joshua,Reyer,Marketing Associate,Marketing,39
+51,Ramona,Rusk,Marketing Associate,Marketing,39
+52,Linda,Birk,Marketing Associate,Marketing,39
+53,Patricia,Mak,Marketing Associate,Marketing,39
+54,Deborah,Bennett,Marketing Associate,Marketing,40
+55,Karren,Brock,Marketing Associate,Marketing,40
+56,Gertrude,Osborne,Marketing Associate,Marketing,40
+57,Walter,Caldwell,Marketing Associate,Marketing,40
+58,Christine,Carpenter,Marketing Associate,Marketing,40
+59,Grace,Radke,Marketing Associate,Marketing,40
+60,Dale,Cantrell,Marketing Associate,Marketing,40
+61,Betty,Rogers,Marketing Associate,Marketing,40
+62,Jorge,Mcgrath,Marketing Associate,Marketing,40
+63,Cyndy,Elamin,VP Sales,Sales,1,yes
+64,John,Fuller,Regional Sales Manger,Sales,63
+65,Debra,Bryan,Regional Sales Manger,Sales,63
+66,Naomi,Stringer,Regional Sales Manger,Sales,63
+67,Thomas,Smith,Regional Sales Manger,Sales,63
+68,Charlene,Johnson,Regional Sales Manger,Sales,63
+69,Sue,Arehart,Regional Sales Manger,Sales,63
+70,Elizabeth,Wagner,Sales Associate,Sales,64
+71,Carlos,Robinson,Sales Associate,Sales,64
+72,Ruby,Valle,Sales Associate,Sales,64
+73,Kenneth,Jones,Sales Associate,Sales,64
+74,Stanley,Hurley,Sales Associate,Sales,64
+75,Jacqueline,Weller,Sales Associate,Sales,64
+76,Bonita,Thomson,Sales Associate,Sales,64
+77,Dorothy,Nolan,Sales Associate,Sales,65
+78,Peter,Dingle,Sales Associate,Sales,65
+79,Rebecca,Purdue,Sales Associate,Sales,65
+80,Susie,Robinson,Sales Associate,Sales,65
+81,Barbara,Ballard,Sales Associate,Sales,65
+82,Kevin,Pena,Sales Associate,Sales,65
+83,Donald,Shahan,Sales Associate,Sales,66
+84,William,Burress,Sales Associate,Sales,66
+85,Sharon,Hansen,Sales Associate,Sales,66
+86,Dennis,Ashley,Sales Associate,Sales,66
+87,Lee,Hutcheson,Sales Associate,Sales,67
+88,Susann,Rios,Sales Associate,Sales,68
+89,Edith,Dame,Sales Associate,Sales,68
+90,Allen,Currin,Sales Associate,Sales,68
+91,Dana,Armstead,Sales Associate,Sales,68
+92,Michael,Morrow,Sales Associate,Sales,69
+93,April,Main,Sales Associate,Sales,69
+94,Marlene,Snow,Director of IT,IT,1,yes
+95,Crystal,Mitchell,Director of Email,IT,94
+96,Jimmy,Johnson,Director of Applications,IT,94
+97,James,Baker,Director of Network,IT,94
+98,Juan,Gonzalez,CTO,IT,94
+99,Joseph,Foley,System Administrator,IT,95
+100,Myong,Dailey,System Administrator,IT,95
+101,Deborah,Hernandez,System Administrator,IT,95
+102,Linda,Larose,System Administrator,IT,95
+103,Amy,Simmons,Developer,IT,96
+104,Sabrina,Alexander,Developer,IT,96
+105,Don,Webb,Developer,IT,96
+106,Ingrid,Espinoza,Network Engineer,IT,97
+107,Jane,Poli,Network Engineer,IT,97
+108,Helen,Spear,Facilities Manager,Facilities,1,yes
+109,John,Dreiling,Facilities Supervisor,Facilities,108
+110,Gretchen,Ruiz,Facilities Associate,Facilities,109
+111,Mildred,Tully,Facilities Associate,Facilities,109
+112,Donald,Stewart,Facilities Associate,Facilities,109
+113,Sherry,Wilson,Facilities Associate,Facilities,109
+114,Blanche,Field,Facilities Associate,Facilities,109
+115,David,Harris,Facilities Associate,Facilities,109
+116,Eva,Milner,Facilities Associate,Facilities,109
+117,James,Sands,Facilities Associate,Facilities,109
+118,Mary,Lancaster,Facilities Associate,Facilities,109
+119,Vernon,Moran,Facilities Associate,Facilities,109
+120,Mark,Colangelo,Facilities Associate,Facilities,109
+121,Heidi,Winkler,Facilities Associate,Facilities,109
+122,Jessie,Pinkley,VP Legal,Legal,1,yes
+123,Maria,Hamm,Paralegal,Legal,122
+124,Velma,Carter,Attorney,Legal,122
+125,Jeremiah,Mcarthur,Attorney,Legal,122
