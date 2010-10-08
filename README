@@ -1,6 +1,6 @@
 = Rendering an Org Chart live from a Rails 3 app 
 
-This is an example of how to render an org chart using Graphviz and Rails 3.
+This is an example of how to render an org chart using Graphviz and Rails 3. This example runs on ruby 1.9.2.
 
 Once you clone this repository, install graphviz, create a database, run the migrations, and run the rake task to seed the data.
 After that you can start the server and the home page will take you to a dialog to select departments to render the org chart for.
